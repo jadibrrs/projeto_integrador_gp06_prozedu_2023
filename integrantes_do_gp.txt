@@ -1,4 +1,4 @@
-Nomes: 
+Nomes dos integrantes: 
 - Ana Caroline dos Santos Marques
 - Bruna Carvalho Caravelli
 - Daniel Miranda Soares
