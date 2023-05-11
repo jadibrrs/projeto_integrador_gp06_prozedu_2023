@@ -1,5 +1,0 @@
-Oi! Criei esse arquivo porque criei as pastas de cada um para colocarem suas imagens, mas o GitHub não mostra as pastas vazias. 
-Então isso aqui é só para preenchimento da pasta, pode apagar. 
-
-Por favor, baixe tooooodas as imagens que você utilizou nas suas telas do layout, coloque elas na sua pasta no seu repositório local, 
-e faça o push para o repositório remoto, para todos termos acesso.
